@@ -239,7 +239,7 @@ npm --version
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/GFX-69/GfxStore.git
 cd GfxStore
 
 # Install dependencies
