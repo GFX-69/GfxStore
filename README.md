@@ -46,8 +46,9 @@ A comprehensive marketplace platform for Minecraft content including plugins, mo
 
 ```bash
 # Clone the project
-git clone <your-repo-url>
+git clone https://github.com/GFX-69/GfxStore.git
 cd GfxStore
+unzip gfxstore.zip -y
 ```
 
 ### Step 2️⃣ Install All Dependencies
